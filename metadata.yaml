@@ -1,4 +1,8 @@
 _repo: What-Happened-to-Me_50001
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 50001-h/images/cover.jpg
 creator:
   author:
     agent_name: Pickett, La Salle Corbell
@@ -11,6 +15,8 @@ creator:
     gutenberg_agent_id: '6828'
     url: http://www.gutenberg.org/2009/agents/6828
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/50001#What-Happened-to-Me
 gutenberg_issued: '2015-09-18'
 gutenberg_type: Text
 identifiers:
